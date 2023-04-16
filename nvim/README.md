@@ -14,12 +14,16 @@
  - ` pf`
  - ` ps`
 
+ # Autocomplete
+  - `<C-{Space}`
+  - `<C-{pny}>`
+
 # Reminders
  - `o` and `O`
 
 # TODO
+ - [ ] LSP!!!
  - [ ] some formater
  - [ ] lush colors
  - [ ] snippets
  - [ ] play with colors
-

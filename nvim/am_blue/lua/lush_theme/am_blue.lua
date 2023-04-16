@@ -14,6 +14,8 @@ return lush(function()
     LineNr { fg = foreground },
     Type { fg = type_c },
     Identifier { fg = identifier_c },
-    Function { fg = function_c }
+    Function { fg = function_c },
+    Pmenu { fg = foreground, bg = background },
+    PmenuSel { fg = foreground, bg = background.lighten(15) }
   }
 end)

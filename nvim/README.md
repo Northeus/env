@@ -14,16 +14,22 @@
  - ` pf`
  - ` ps`
 
- # Autocomplete
-  - `<C-{Space}`
-  - `<C-{pny}>`
+# Autocomplete
+ - `<C-{Space}`
+ - `<C-{pno}>`
+
+# LSP
+ - `g{dD}` go to definition / declaration
 
 # Reminders
  - `o` and `O`
 
 # TODO
- - [ ] LSP!!!
  - [ ] some formater
  - [ ] lush colors
- - [ ] snippets
+ - [ ] snippets (lsp-zero)
  - [ ] play with colors
+ - [ ] harpoon
+
+# Problems
+ - Ensure that `DOTNET_ROOT` is set correctly

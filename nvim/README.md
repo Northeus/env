@@ -10,10 +10,16 @@
  - zz
 
 # Files
+ - ` pv` file (`%`, `d`)
+ - ` pf`
+ - ` ps`
 
 # Reminders
  - `o` and `O`
 
 # TODO
- - [ ] telescope
  - [ ] some formater
+ - [ ] lush colors
+ - [ ] snippets
+ - [ ] play with colors
+

@@ -19,3 +19,4 @@ vim.opt.autoindent = true
 vim.opt.expandtab = true
 
 vim.opt.signcolumn = "no"
+

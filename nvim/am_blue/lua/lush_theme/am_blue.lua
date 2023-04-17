@@ -15,7 +15,9 @@ return lush(function()
     Type { fg = type_c },
     Identifier { fg = identifier_c },
     Function { fg = function_c },
-    Pmenu { fg = foreground, bg = background },
-    PmenuSel { fg = foreground, bg = background.lighten(15) }
+    Pmenu { fg = foreground, bg = background, blend = 100 },
+    PmenuSel { fg = foreground, bg = background.lighten(20) },
+    PmenuSbar { bg = background },
+    PmenuThumb { bg = background.lighten(20) },
   }
 end)

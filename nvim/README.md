@@ -33,3 +33,5 @@
 
 # Problems
  - Ensure that `DOTNET_ROOT` is set correctly
+ - `ripgrep` `fzf` `fd-find`
+ - `:checkhelth`

@@ -9,10 +9,16 @@
  - search current word `*`
  - zz
 
+# Definitions
+ - `gd` go to definition
+ - `<ctrl>t` jump to previous file
+ - `<ctrl>o` jump to previous location
+   * `<ctrl>i` jump to next location
+
 # Files
  - ` pv` file (`%`, `d`)
- - ` pf`
- - ` ps`
+ - ` pf` filename
+ - ` ps` string
 
 # Autocomplete
  - `<C-{Space}`

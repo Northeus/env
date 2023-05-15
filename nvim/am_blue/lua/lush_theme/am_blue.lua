@@ -10,7 +10,8 @@ local function_c = hsl(180, 80, 50)
 
 return lush(function()
   return {
-    Normal { fg = foreground, bh = background, blend = 50 },
+    Normal { fg = foreground },
+    Visual { fg = foreground, bg = background.lighten(30) },
     LineNr { fg = foreground },
     Type { fg = type_c },
     Identifier { fg = identifier_c },

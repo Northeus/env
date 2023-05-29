@@ -7,7 +7,8 @@ end)
 lsp.ensure_installed({
   'csharp_ls',
   'clangd',
-  'lua_ls'
+  'lua_ls',
+  'r_language_server'
 })
 
 lsp.setup()

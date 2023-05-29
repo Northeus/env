@@ -8,6 +8,12 @@
  - `<ctrl>{du}`
  - search current word `*`
  - zz
+ - `*` `#` search for word under the cursor
+
+# Its gettin better
+ - `viw` select word under the cursor
+ - `va(` select paranthesis content and them
+ - `vat` select tag
 
 # Definitions
  - `gd` go to definition
@@ -29,6 +35,12 @@
 
 # Reminders
  - `o` and `O`
+
+# Surround
+ - `ysiw{bracket / quote}` wrap
+ - `ys{motion}{char}`
+ - `{ys|ds|cs}` add / delete / change
+ - `dsf` delete function call? :D
 
 # TODO
  - [ ] some formater

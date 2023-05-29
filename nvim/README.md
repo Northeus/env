@@ -42,6 +42,9 @@
  - `{ys|ds|cs}` add / delete / change
  - `dsf` delete function call? :D
 
+# Emmet
+ - TODO
+
 # TODO
  - [ ] some formater
  - [ ] lush colors
@@ -53,3 +56,4 @@
  - Ensure that `DOTNET_ROOT` is set correctly
  - `ripgrep` `fzf` `fd-find`
  - `:checkhelth`
+ - `emmet_ls` requires npm installer

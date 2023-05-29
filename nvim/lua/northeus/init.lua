@@ -7,6 +7,11 @@ vim.api.nvim_create_autocmd({ "BufWritePre" }, {
   command = [[%s/\s\+$//e]],
 })
 
+vim.api.nvim_create_autocmd({ "BufRead", "BufNewFile" }, {
+  pattern = { "*.axaml", "*.xaml" },
+  command = "set filetype=xml"
+})
+
 vim.wo.number = true
 vim.wo.relativenumber = true
 

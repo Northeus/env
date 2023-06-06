@@ -42,8 +42,11 @@
  - `{ys|ds|cs}` add / delete / change
  - `dsf` delete function call? :D
 
+# Markdown
+ - `:MarkdownPreview`
+
 # Emmet
- - TODO
+ - [Cheatsheet](https://docs.emmet.io/cheat-sheet/)
 
 # TODO
  - [ ] some formater

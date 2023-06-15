@@ -84,6 +84,11 @@ _G.packer_plugins = {
     path = "/home/jan/.local/share/nvim/site/pack/packer/start/am_blue",
     url = "/home/jan/.config/nvim/am_blue"
   },
+  ["clangd_extensions.nvim"] = {
+    loaded = true,
+    path = "/home/jan/.local/share/nvim/site/pack/packer/start/clangd_extensions.nvim",
+    url = "https://github.com/p00f/clangd_extensions.nvim"
+  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "/home/jan/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",

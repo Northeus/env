@@ -27,8 +27,9 @@
  - ` ps` string
 
 # Autocomplete
- - `<C-{Space}`
- - `<C-{pno}>`
+ - `<C-{Space}` get completion menu
+ - `<C-{pno}>` prev next select
+ - `<C-{fb}>` forward / backward parameter
 
 # LSP
  - `g{dD}` go to definition / declaration
